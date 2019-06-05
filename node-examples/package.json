@@ -1,0 +1,20 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Simple Node Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Rohit Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-dev-server": "^3.5.1"
+  },
+  "dependencies": {
+    "webpack": "^4.32.2",
+    "webpack-dev-middleware": "^3.7.0",
+    "yarn": "^1.16.0"
+  }
+}
